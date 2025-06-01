@@ -35,9 +35,10 @@ A custom vehicle clamp (wheel lock) system for ESX-based FiveM servers. This scr
 - Clamp visuals are attached in front of the vehicle and cleaned up if unclamped.
 - Everything is synced via server-client events and stored persistently.
 
-##📄 License
+## 👤 Author
+**Kilian**
+
+## 📄 License
 
 MIT License – free to use, modify, and redistribute.
 
-## 👤 Author
-**Kilian**
